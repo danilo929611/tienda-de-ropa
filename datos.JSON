@@ -1,7 +1,7 @@
 {
   "titulo": "Resultados de ventas - Tienda de ropa",
   "total_ventas_por_tienda": {
-    "tienda_1": 180000.0,
+    "tienda_1": 20000.0,
     "tienda_2": 120000.0,
     "tienda_3": 155000.0
   },
@@ -13,7 +13,7 @@
   },
 
   "total_ventas_por_camisa": {
-    "camisa_1_tommy hilfiger": 110000.0,
+    "camisa_1_adidas": 110000.0,
     "camisa_2_hugo boss": 160000.0,
     "camisa_3_monastery": 185000.0
   },
@@ -50,6 +50,7 @@
   }
 
 }
+
 
 
 
