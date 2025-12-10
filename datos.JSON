@@ -1,0 +1,51 @@
+{
+  "titulo": "Resultados de ventas - Tienda de ropa",
+  "total_ventas_por_tienda": {
+    "tienda_1": 180000.0,
+    "tienda_2": 120000.0,
+    "tienda_3": 155000.0
+  },
+
+  "promedio_ventas_por_tienda": {
+    "tienda_1": 60000.0,
+    "tienda_2": 40000.0,
+    "tienda_3": 51666.67
+  },
+
+  "total_ventas_por_camisa": {
+    "camisa_1_adidas": 110000.0,
+    "camisa_2_nike": 160000.0,
+    "camisa_3_monastery": 185000.0
+  },
+
+  "totales_generales": {
+    "total_general_vendido": 455000.0,
+    "promedio_general": 50555.56
+  },
+
+  "estadisticas": {
+    "camisa_mas_vendida": {
+      "camisa": "Camisa 1",
+      "marca": "adidas",
+      "ventas": 110000.0
+    },
+    "tienda_mayores_ventas": {
+      "tienda": "tienda_1",
+      "ventas": 180000.0
+    },
+    "tienda_menores_ventas": {
+      "tienda": "tienda_2",
+      "ventas": 120000.0
+    },
+    "tienda_mejor_promedio": {
+      "tienda": "tienda_1",
+      "promedio": 60000.0
+    }
+  },
+
+  "porcentaje_participacion": {
+    "tienda_1": 39.56043956043956,
+    "tienda_2": 26.373626373626376,
+    "tienda_3": 34.065934065934066
+  }
+}
