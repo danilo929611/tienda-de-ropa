@@ -1,7 +1,7 @@
 {
   "titulo": "Resultados de ventas - Tienda de ropa",
   "total_ventas_por_tienda": {
-    "tienda_1": 180000.0,
+    "tienda_1": 150000.0,
     "tienda_2": 120000.0,
     "tienda_3": 155000.0
   },
@@ -48,4 +48,5 @@
     "tienda_2": 26.373626373626376,
     "tienda_3": 34.065934065934066
   }
+
 }
