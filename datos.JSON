@@ -13,8 +13,8 @@
   },
 
   "total_ventas_por_camisa": {
-    "camisa_1_adidas": 110000.0,
-    "camisa_2_nike": 160000.0,
+    "camisa_1_tommy hilfiger": 110000.0,
+    "camisa_2_hugo boss": 160000.0,
     "camisa_3_monastery": 185000.0
   },
 
@@ -50,6 +50,7 @@
   }
 
 }
+
 
 
 
